@@ -1,0 +1,9 @@
+[submodule "platform/interest"]
+	path = platform/interest
+	url = git@gitlab.com:trainee_123jobgroup/tts-hi-u/interest.git
+[submodule "platform/real-estate"]
+	path = platform/real-estate
+	url = git@gitlab.com:trainee_123jobgroup/tts-hi-u/real-estate.git
+[submodule "platform/plugin-interest"]
+	path = platform/plugin-interest
+	url = git@gitlab.com:trainee_123jobgroup/tts-hi-u/plugin-interest.git

@@ -1,0 +1,482 @@
+.box-top-car-review {
+  background: #f3ffff;
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.2), inset 0 -3px 0 #f60;
+  padding: 20px 20px 30px;
+}
+.box-top-car-review .item-big {
+  border-bottom: 1px solid #e0e0e0;
+}
+.box-top-car-review .item-big .wrap-img {
+  width: 545px;
+  height: 222px;
+}
+.box-top-car-review .item-big .wrap-img img {
+  width: 100%;
+  height: 100%;
+}
+.box-top-car-review .item-big .main-content {
+  padding-left: 20px;
+}
+.box-top-car-review .item-big .main-content a {
+  margin-bottom: 35px;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  color: #2070d2;
+  padding-right: 20px;
+}
+.box-top-car-review .item-big .main-content .car-price {
+  margin-top: 10px;
+  background: #2070d2;
+  border-radius: 5px;
+  display: inline-block;
+  height: 36px;
+  min-width: 207px;
+  padding: 3px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+  color: #fff;
+}
+.box-top-car-review .item-big .main-content .car-price .car-title {
+  width: 87px;
+  height: 30px;
+  background: #41c9a7;
+  border-radius: 3px;
+  display: inline-block;
+  text-transform: capitalize;
+  text-align: center;
+}
+.box-top-car-review .item-big .main-content .car-price .number-price {
+  padding-left: 15px;
+}
+.box-top-car-review .item-big .main-content .editor-rate {
+  margin-top: 16px;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: #333;
+}
+.box-top-car-review .item-big .main-content .parameter {
+  margin-top: 12px;
+  font-size: 14px;
+  font-weight: normal;
+  color: #333;
+  margin-bottom: 0px;
+}
+.box-top-car-review .item-small {
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.15);
+}
+.box-top-car-review .item-small .info {
+  background-color: white;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.box-top-car-review .item-small .info h3 {
+  margin-top: 10px;
+}
+.box-top-car-review .item-small .info .icon-car {
+  color: #999;
+  padding-right: 10px;
+}
+.box-top-car-review .item-small .info .icon-car i {
+  padding-right: 5px;
+}
+.box-top-car-review .item-small .info .rate-number {
+  padding-left: 15px;
+  border-left: 1px solid #ddd;
+  color: #f60;
+  font-weight: bold;
+}
+
+.title {
+  margin: 0;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 28px;
+  color: #333;
+  height: 56px;
+  overflow: hidden;
+  margin-bottom: 16px;
+}
+
+.post-review .heading {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 32px;
+  color: #333;
+  margin: 0;
+}
+.post-review .post {
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.15);
+  background-color: white;
+  padding: 15px;
+}
+.post-review .post img {
+  width: 370px;
+  height: 152px;
+}
+.post-review .post .main-content {
+  padding-left: 15px;
+}
+.post-review .post .main-content a {
+  color: #333;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  text-overflow: ellipsis;
+  white-space: normal;
+  word-wrap: break-word;
+  -webkit-box-orient: vertical;
+}
+.post-review .post .main-content .number-price {
+  color: #2070d2;
+  font-weight: bold;
+}
+.post-review .post .main-content span {
+  padding-right: 10px;
+}
+.post-review .post .main-content span i {
+  padding-left: 15px;
+  padding-right: 5px;
+  border-left: 1px solid #999;
+  color: #999;
+}
+.post-review .post .main-content .editor-text {
+  margin-top: -80px;
+  background-color: #f3f3f3;
+  padding: 5px 0px 5px 20px;
+  border-radius: 5px;
+}
+.post-review .post .main-content .editor-text .rate-number {
+  color: #f60;
+}
+
+.right-content .box-search {
+  background: #2070d2;
+  padding: 20px;
+}
+.right-content .item {
+  width: 33.333%;
+  height: 95px;
+}
+.right-content .item img {
+  padding-top: 10px;
+  height: 50px;
+}
+.right-content .item img p {
+  padding-bottom: 0px;
+}
+
+.recent-list .wrap-img span {
+  position: absolute;
+}
+.recent-list .wrap-img span i {
+  padding-top: 10px;
+  color: white;
+  padding-left: 10px;
+}
+.recent-list .wrap-img span .text {
+  top: 5px;
+  left: 43px;
+  z-index: 1;
+  background: #fff0e6;
+  border-radius: 3px;
+  text-align: center;
+  width: 44px;
+  height: 30px;
+  line-height: 30px;
+  font-weight: 500;
+  font-size: 14px;
+  color: #f60;
+}
+.recent-list .main-content {
+  border: 2px solid #ddd;
+  padding: 10px;
+}
+.recent-list .main-content h4 {
+  color: #515356;
+  font-size: 18px;
+  font-weight: 500;
+}
+.recent-list .main-content .location {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  margin: 0;
+  font-weight: normal;
+  font-size: 14px;
+  color: #999;
+  line-height: 16px;
+  margin-bottom: 8px;
+}
+.recent-list .main-content .location i {
+  padding-right: 5px;
+}
+.recent-list .main-content .price {
+  font-size: 20px;
+  color: #515356;
+  line-height: 23px;
+  font-weight: 700;
+  margin: 0;
+  margin-bottom: 8px;
+}
+.recent-list .main-content .parameter span {
+  color: #999;
+  padding-right: 10px;
+}
+.recent-list .main-content .parameter span i {
+  border-left: 1px solid #999;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+.car-review-mb .item {
+  background-color: #222222;
+  padding: 5px;
+}
+.car-review-mb .photo {
+  min-height: 157px;
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+}
+.car-review-mb .title {
+  max-height: 48px;
+  margin: 0;
+  margin-top: 0px;
+  margin-top: 8px;
+  overflow: hidden;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+}
+.car-review-mb .title a {
+  color: #FFFFFF;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  text-overflow: ellipsis;
+  white-space: normal;
+  word-wrap: break-word;
+  -webkit-box-orient: vertical;
+}
+.car-review-mb .car-price {
+  background: #2070D2;
+  border-radius: 5px;
+  display: inline-block;
+  height: 30px;
+  min-width: 195px;
+  padding: 3px;
+  padding-right: 3px;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+  padding-right: 10px;
+  margin-top: 8px;
+}
+.car-review-mb .car-price .text {
+  width: 87px;
+  height: 24px;
+  background: #41C9A7;
+  border-radius: 3px;
+  float: left;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 14px;
+}
+.car-review-mb .car-price .car-price {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+.car-review-mb .parameter {
+  margin: 0;
+  margin-top: 16px;
+  font-size: 14px;
+  font-weight: normal;
+  color: rgba(255, 255, 255, 0.5);
+  display: inline-block;
+  width: 100%;
+}
+.car-review-mb .parameter .Transmission {
+  padding-right: 15px;
+}
+.car-review-mb .parameter .vehicles {
+  padding-left: 15px;
+  border-left: 1px solid rgba(255, 255, 255, 0.5);
+}
+.car-review-mb .box-Editor-rating {
+  width: 100%;
+  display: inline-block;
+  margin-top: 16px;
+  margin-bottom: 10px;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: #666666;
+}
+.car-review-mb .box-Editor-rating .pull-left {
+  float: left !important;
+}
+.car-review-mb{
+    display: none;
+}
+.car-review-mb .box-Editor-rating .number {
+  float: left;
+  padding-left: 15px;
+  color: #FF6600;
+  font-weight: bold;
+  font-size: 16px;
+}
+.car-review-mb .box-Editor-rating .star {
+  color: #ffd200;
+  padding-left: 5px;
+}
+
+.latest-mb {
+  display: none;
+}
+
+.right-content {
+  display: block;
+}
+
+.mySwiper-2 {
+  display: none;
+}
+
+.search-mb {
+  display: none;
+}
+
+@media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+  .right-content {
+    display: none;
+  }
+
+  .search-mb {
+    display: block;
+  }
+
+  .latest-mb {
+    display: block;
+  }
+
+  .mySwiper-2 {
+    display: block;
+  }
+
+  .car-review-pc {
+    display: none;
+  }
+
+  .post {
+    padding: 8px 5px !important;
+  }
+  .post .wrap-img img {
+    width: 120px;
+    height: 68px;
+  }
+  .post .main-content .title {
+    font-size: 16px;
+  }
+  .post .main-content p {
+    margin-left: -138px;
+    font-size: 14px;
+    margin-bottom: 0px;
+  }
+  .post .main-content .parameter {
+    display: none;
+  }
+  .post .main-content .editor-text {
+    display: none;
+  }
+
+  .box-gray-a {
+    padding: 0px !important;
+    background-color: white !important;
+    border: none !important;
+  }
+  .box-gray-a .list-from-price .img-small {
+    width: 120px !important;
+    height: 68px !important;
+  }
+  .box-gray-a .title {
+    height: auto !important;
+    margin-bottom: 0px !important;
+  }
+  .box-gray-a .model {
+    font-size: 13px;
+    color: #999 !important;
+  }
+    .car-review-mb{
+        display: block;
+    }
+}
+@media only screen and (max-width: 46.1875em) {
+    .car-review-mb{
+        display: block;
+    }
+  .right-content {
+    display: none;
+  }
+
+  .car-review-pc {
+    display: none;
+  }
+
+  .latest-mb {
+    display: block;
+  }
+
+  .mySwiper-2 {
+    display: block;
+  }
+
+  .search-mb {
+    display: block;
+  }
+
+  .post {
+    padding: 8px 5px !important;
+  }
+  .post .wrap-img img {
+    width: 120px;
+    height: 68px;
+  }
+  .post .main-content .title {
+    font-size: 16px;
+  }
+  .post .main-content p {
+    margin-left: -138px;
+    font-size: 14px;
+    margin-bottom: 0px;
+  }
+  .post .main-content .parameter {
+    display: none;
+  }
+  .post .main-content .editor-text {
+    display: none;
+  }
+
+  .box-gray-a {
+    padding: 0px !important;
+  }
+  .box-gray-a .list-from-price .img-small {
+    width: 120px !important;
+    height: 68px !important;
+  }
+  .box-gray-a .title {
+    height: auto !important;
+    margin-bottom: 0px !important;
+  }
+  .box-gray-a .model {
+    font-size: 13px;
+    color: #999 !important;
+  }
+}
+
+/*# sourceMappingURL=review.css.map */

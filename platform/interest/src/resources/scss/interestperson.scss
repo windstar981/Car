@@ -1,0 +1,58 @@
+.title-main {
+    color: #231f20;
+    font-size: 20px;
+    margin: 18px 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+.lable-ranger{
+    display: block;
+    width: 100%;
+}
+.money{
+    width: 80%;
+    color:#27aae1;
+    border: 1px solid #c7c9cb!important;
+    border-radius: 3px!important;
+    font-size: 13px!important;
+    font-weight: 600!important;
+    height: 40px;
+    padding: 10px 4%!important;
+    outline: none;
+}
+.range-money{
+    width: 100%;
+    background: #DDDDDD;
+    -webkit-appearance: none;
+    height: 10px;
+    border-radius: 5px;
+    margin-top: 45px;
+}
+.range-money::-webkit-slider-thumb{
+    -webkit-appearance: none;
+    border: 1px solid #664AFF;
+    cursor: pointer;
+    background: #00aeef;
+    border-radius: 1.42857em;
+    height: 1.75em;
+    width: 5.5em;
+}
+.value-money span{
+    font-size: 12px;
+}
+.wrap-total{
+    height: 40px;
+    background: #f1f1f2;
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-top: 32px;
+}
+.total-money{
+    color: #00aeef;
+}
+.total-interest{
+    color: #00aeef;
+}
+.interest-content{
+    padding-left: 20px;
+}

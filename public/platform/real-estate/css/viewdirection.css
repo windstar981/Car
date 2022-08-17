@@ -1,0 +1,127 @@
+.header {
+  text-align: center;
+  color: #2c2c2c;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+
+.main-content {
+  border: 1px solid #f2f2f2;
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 24px;
+  margin-bottom: 16px;
+}
+
+.title {
+  color: #505050;
+  margin: auto;
+  margin-bottom: 24px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  text-align: center;
+  width: 416px;
+}
+
+.title-left {
+  width: 150px;
+  display: inline-block;
+  margin-bottom: 15px;
+  color: #2c2c2c;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  margin-right: 8px;
+  margin-top: 6px;
+}
+
+input {
+  font-size: 14px;
+  line-height: 20px;
+  width: 220px;
+  border-radius: 4px;
+  color: #2c2c2c;
+  background: #fff;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  padding: 5px 15px;
+}
+
+.wrap-step {
+  padding-left: 40px;
+  padding-right: 35px;
+}
+
+select {
+  font-size: 14px;
+  line-height: 20px;
+  width: 220px;
+  border-radius: 4px;
+  color: #2c2c2c;
+  background: #fff;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  padding: 5px 15px;
+}
+
+.btn-submit {
+  color: #e03c31;
+  background: #fff;
+  border: 1px solid #e03c31;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: bold;
+  padding: 5px 11px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.btn-submit:hover {
+  color: #e03c31;
+  background: #ffeceb;
+  border: 1px solid #e03c31;
+}
+.btn-submit:active {
+  color: #fff;
+  background: #e03c31;
+  border: 1px solid #e03c31;
+}
+
+.wrap-result {
+  border: 1px solid #f2f2f2;
+  border-radius: 4px;
+  padding: 16px;
+  color: #505050;
+}
+
+.re__utils-header {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  color: #2c2c2c;
+  margin-bottom: 16px;
+}
+
+.boldLabel {
+  font-size: 12px;
+  line-height: 16px;
+  color: #505050;
+  font-weight: 500;
+}
+
+.res {
+  font-size: 12px;
+  line-height: 16px;
+  color: #505050;
+}
+
+.validate {
+  text-align: center;
+  display: block;
+  padding-left: 60px;
+  color: red;
+  font-size: 12px;
+  margin-top: -5px;
+}
